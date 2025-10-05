@@ -1,1 +1,15 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+@theme {
+  --font-young-serif-regular:'Young Serif', 'serif'
+  --font-outfit: "Outfit", sans-serif;
+}
+
+body{
+  font-family: "Outfit", sans-serif;
+}
+h1,h2{
+    font-family: "Young Serif", serif;
+}
