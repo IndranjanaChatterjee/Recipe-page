@@ -169,7 +169,7 @@ function App() {
         </div>
         
       </div>
-      <div class="attribution">
+      <div class="attribution" className="bg-white md:bg-[#f3e5d8]">
           Challenge by{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor
