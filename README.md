@@ -14,8 +14,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/IndranjanaChatterjee/Recipe-page)
-- Live Site URL: [live site URL here](https://recipe-page-one-amber.vercel.app/)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Recipe-page)
+- Live Site URL: [live site URL](https://recipe-page-one-amber.vercel.app/)
 
 
 
