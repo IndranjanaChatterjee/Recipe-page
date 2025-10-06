@@ -34,8 +34,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Website - [Add your name here](https://github.com/IndranjanaChatterjee/Recipe-page)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
+- Website - [URL](https://github.com/IndranjanaChatterjee)
+- Frontend Mentor - [Indranjana Chatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
 
